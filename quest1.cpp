@@ -9,6 +9,7 @@ int main(void){
 int num = 0;
 int i = 0;
 int j = 0;
+int test;
 
 string Command[100] = {};
 string Output[100] = {};
